@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="lbl_turn_on">Turn on</string>
+    <string name="lbl_turn_off">Turn off</string>
+    <string name="lbl_not_connected">Not connected</string>
+    <string name="lbl_connected">Connected</string>
+    <string name="lbl_connection_success">Connection established</string>
+    <string name="lbl_connection_failure">Connection failed</string>
+    <string name="lbl_retry_connection">Retry connection</string>
+    <string name="lbl_already_connected">Already connected</string>
+    <string name="lbl_read_data">Read data</string>
+    <string name="lbl_no_data">No data</string>
+    <string name="lbl_temperature_humidity">Temperature: %s, Humidity: %s</string>
+    <string name="lbl_log_message">Time interval: %d, %s, %s</string>
+</resources>
